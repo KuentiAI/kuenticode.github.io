@@ -279,7 +279,7 @@ footer.no-pad {
 [data-overlay]:before {
   position: absolute;
   content: '';
-  background-color: #1A212A;
+  background-color: #776bf1;
   width: 100%;
   height: 100%;
   top: 0;
