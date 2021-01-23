@@ -59,7 +59,7 @@ nav-mobile3: 400 15px/29px Poppins;
 [Color Codes]
 
 // Darks
-$dark1: #1A212A; // Used for H1 & Dark Blocks
+$dark1: #776bf1; // Used for H1 & Dark Blocks
 $dark2: #145A68; // Used for H2, H3 & Mid Dark Blocks
 $dark3: #318191; // Lighter Dark Blocks
 $dark4: #3B476E; // Used for lines on dark areas and occassional places
@@ -364,7 +364,7 @@ footer.dark1,
 header.dark1,
 div.area.dark1,
 div.widget.dark1 {
-  background-color: #1A212A;
+  background-color: #776bf1;
 }
 
 section.dark2,
